@@ -13,6 +13,7 @@ module.exports = (app) => {
     class HomeController extends egg.Controller {
         index() {
             return __awaiter(this, void 0, void 0, function* () {
+                this.ctx.service['user'].find().exec();
                 this.ctx.body = 'hi, egg';
             });
         }
