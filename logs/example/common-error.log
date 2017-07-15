@@ -1,0 +1,30 @@
+2017-07-15 17:56:23,584 ERROR 8340 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:610:25)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 8340
+hostname: WIN-01703211357
+
+2017-07-15 17:56:51,777 ERROR 8340 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:610:25)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 8340
+hostname: WIN-01703211357
+
+2017-07-15 18:00:12,648 ERROR 8340 nodejs.unhandledExceptionError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:610:25)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'unhandledExceptionError'
+pid: 8340
+hostname: WIN-01703211357
+

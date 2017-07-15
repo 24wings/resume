@@ -1,0 +1,76 @@
+2017-07-15 17:54:35,908 INFO 8340 [egg:logger] init all loggers with options: {"dir":"D:\\workspace\\resume\\logs\\example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-15 17:54:35,973 INFO 8340 [egg-watcher:agent] watcher start success
+2017-07-15 17:55:44,286 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:55:44,347 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:55:44,359 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:55:44,488 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:55:46,018 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:55:47,153 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.js change
+2017-07-15 17:56:20,936 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:56:21,051 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:22,573 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.js change
+2017-07-15 17:56:22,378 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:22,634 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:22,647 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:23,482 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:23,866 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:30,128 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:56:30,167 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:30,179 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:30,203 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:31,295 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:34,935 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:56:34,985 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:35,032 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:35,033 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:35,959 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:49,170 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:56:49,239 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:49,248 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:49,254 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:50,563 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.js change
+2017-07-15 17:56:50,452 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:50,724 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:50,739 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:56:51,918 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:57:31,664 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:56,781 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.ts change
+2017-07-15 17:58:56,836 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:56,841 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:56,851 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:58,287 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.js change
+2017-07-15 17:58:58,458 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:58,487 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:58,490 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:58,525 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:58:59,907 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:59:31,768 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.js change
+2017-07-15 17:59:32,915 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:59:36,709 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.ts change
+2017-07-15 17:59:39,444 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\controller\home.js change
+2017-07-15 17:59:39,509 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:59:39,525 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:59:39,532 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 17:59:40,740 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:08,056 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:08,068 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:08,069 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:10,825 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.ts change
+2017-07-15 18:00:10,879 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:10,887 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:10,917 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:12,030 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:12,479 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.js change
+2017-07-15 18:00:12,521 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:12,722 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:13,643 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:15,988 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.ts change
+2017-07-15 18:00:16,036 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:16,039 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:16,044 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:17,272 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:40,997 WARN 8340 [agent:development] reload worker because D:\workspace\resume\app\router.ts change
+2017-07-15 18:00:41,063 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:41,100 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:43,270 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-15 18:00:50,836 WARN 8340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
